@@ -16,4 +16,5 @@ rosrun smach_tutorials user_data2.py
 ```
 3. Create a Hierarchical State Machine: http://wiki.ros.org/smach/Tutorials/Create%20a%20hierarchical%20state%20machine
 ```
+rosrun smach_tutorials state_machine_nesting2.py
 ```
